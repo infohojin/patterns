@@ -1,6 +1,7 @@
 <?php
 
 // 클래스 파일을 읽어 옵니다.
+include "factory.php";
 include "hello.php";
 include "korean.php";
 
