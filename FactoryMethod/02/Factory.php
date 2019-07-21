@@ -6,6 +6,6 @@ class Factory
 {
     public final function create()
     {
-        return new Product();
+        return new LgProduct();
     }
 }

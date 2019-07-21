@@ -11,6 +11,6 @@ class ProductFactory extends Factory
 
     public function createProduct()
     {
-        return new Gram();
+        return new LgProduct();
     }
 }

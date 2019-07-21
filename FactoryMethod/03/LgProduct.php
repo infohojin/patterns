@@ -1,8 +1,8 @@
 <?php
 /**
- * 생성 클래스
+ * LG 노트북 생성 클래스
  */
-class Gram
+class LgProduct
 {
     public function name()
     {

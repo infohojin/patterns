@@ -3,7 +3,7 @@
  * 팩토리(Factory)
  */
 require "factory.php";
-require "Gram.php";
+require "LgProduct.php";
 
 $fac = new Factory;
 $pro = $fac->create();
